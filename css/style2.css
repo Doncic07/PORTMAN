@@ -1,0 +1,224 @@
+body{background-color: #373441;}
+
+h1{ text-decoration: underline;
+    margin-top: -5px;
+    padding: 30px;
+    min-width: 150px;
+    height: auto;
+    text-align:center;
+    font-size: 100px;
+    font-family:optima;
+    color:#E3C4A8;
+    font-weight:bold;
+    }
+
+h2 {padding-top: 9px;
+    margin-top:-116px;
+    text-align:center;
+    font-size: 60px;
+    font-family:Optima;
+    color:white;
+    font-weight:normal;
+}
+
+
+
+#jacket1{
+    position: relative;
+    top:-860px;
+    left:30px;
+    width: 200px;
+height: 300px;
+}
+
+
+
+    #jacket2{
+        position: relative;
+        left: 30px;
+        top:80px;
+        width:215px;
+        height: 250px;
+    }
+
+    #jacket3{
+        position: relative;
+    top:-835px;
+    left:278px;
+    width: 315px;
+height: 360px;
+}
+
+#jacket4{
+    position: relative;
+top:-515px;
+left:455px;
+width: 500px;
+height: 560px;
+}
+
+
+#price8{
+    margin-left: 670px;
+        font-family:optima;
+        color: #E3C4A8;
+        margin-top:-671px;
+}
+
+#price9{margin-left: 670px;
+    font-family:optima;
+    color: #E3C4A8;
+    ;
+
+}
+
+#price0{
+    margin-left: 670px;
+    font-family:optima;
+    color: #E3C4A8;
+    ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#price5{
+    margin-left: 385px;
+    font-family:optima;
+    color: #E3C4A8;
+    margin-top:-900px;
+}
+
+#price6{margin-left: 385px;
+    font-family:optima;
+    color: #E3C4A8;
+    ;
+
+}
+
+#price7{
+    margin-left: 385px;
+    font-family:optima;
+    color: #E3C4A8;
+    ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #backgroundimage{
+        position: relative;
+        left: -20px;
+       float: center;
+        height: 1200px;
+        width: 1450px;
+        z-index: -1;
+       margin-top: -300px;
+    }
+
+    div{
+        margin-left: 90px;
+        font-family:optima;
+        color: #E3C4A8;
+        margin-top:-900px;}
+
+        #price2{margin-left: 90px;
+            font-family:optima;
+            color: #E3C4A8;
+            margin-top:70px;
+
+        }
+
+        #price3{margin-left: 90px;
+            font-family:optima;
+            color: #E3C4A8;
+            margin-top:10px;
+
+        }
+
+        #price4{margin-left: 90px;
+            font-family:optima;
+            color: #E3C4A8;
+            margin-top:20px;
+
+        }
+
+
+
+
+
+        #jacket5{
+            position: relative;
+        top:-400px;
+        left:840px;
+        width: 290px;
+        height: 320px;
+        }
+
+        #price11{
+            margin-left: 940px;
+        font-family:optima;
+        color: #E3C4A8;
+        margin-top:-431px;}
+
+        #price12{
+            margin-left: 940px;
+        font-family:optima;
+        color: #E3C4A8;
+        }
+
+        #price13{
+            margin-left: 940px;
+        font-family:optima;
+        color: #E3C4A8;
+        }
+
+
+        #jacket6{
+            position: relative;
+        top:-440px;
+        left:1105px;
+        width: 380px;
+        height: 550px;
+        }
+
+        #price14{
+            margin-left: 1251px;
+        font-family:optima;
+        color: #E3C4A8;
+        margin-top:-661px;}
+
+        #price15{
+            margin-left: 1251px;
+        font-family:optima;
+        color: #E3C4A8;
+        }
+
+        #price16{
+            margin-left: 1251px;
+        font-family:optima;
+        color: #E3C4A8;
+        }
